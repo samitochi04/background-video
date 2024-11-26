@@ -1,7 +1,8 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    /* If you set box-sizing: border-box; on an element, padding and border are included in the width and height: */
+    box-sizing: border-box; 
     font-family: sans-serif;
 }
 
